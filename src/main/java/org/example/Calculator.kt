@@ -1,6 +1,6 @@
 package org.example
 
-// Kelas yang digunakan untuk melakukan operasi matematika dasar
+// kelas yang digunakan untuk melakukan operasi matematika dasar
 class Calculator {
 
     // Digunakan untuk menambahkan dua angka

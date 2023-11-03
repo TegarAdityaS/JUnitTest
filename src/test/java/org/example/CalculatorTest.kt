@@ -14,7 +14,7 @@ class CalculatorTest {
         assertEquals(expected, calculator.add(5, 5))
     }
 
-    // Pengujian untuk metode 'sub' dalam kelas Calculator.
+    // Pengujian metode 'sub' dalam kelas Calculator.
     @Test
     fun `Test calculator can subtract two numbers`() {
         val calculator = Calculator()
